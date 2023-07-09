@@ -5,4 +5,4 @@
 머신러닝의 경우 Word2Vec, GloVe, BERT Tokenizer를 통해 세 가지 방법으로 임베딩을 진행 후 알고리즘 별로 결과를 비교
 
 ## 주요 사용 툴
-Pytorch, transformers(Hugging Face), pandas, scikit-learn
+Pytorch, transformers(Hugging Face), pandas, numpy, scikit-learn
